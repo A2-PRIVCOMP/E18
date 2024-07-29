@@ -1,4 +1,4 @@
-# E18_code
+# Código E18 A2PRIVCOMP
 
 Código del desarrollo intermedio de las metodologías para la exposición de datos de usuario en plataformas cloud de alta populariodad y valoración de datos de usuario en el mercado de publicidad en plataformas cloud de alta popularidad (Entregable 18).
 
